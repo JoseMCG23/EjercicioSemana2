@@ -1,0 +1,14 @@
+/*Ahorra escribir lineas de codigo repetidas, utilizando un contenedor main que posee el margen para todos los
+parrafos para las habilidades*/
+.EnfasisHabilidad{
+    margin: 1em;
+}
+
+#titulo{
+    color: blue;
+    text-align: center; /*Centra el parrafo que tenga de id "titulo"*/
+    text-decoration: underline;
+}
+
+.container {height: 11rem;}
+
